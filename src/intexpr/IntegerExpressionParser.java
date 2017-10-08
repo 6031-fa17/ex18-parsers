@@ -4,10 +4,10 @@ import java.io.File;
 import java.io.IOException;
 import java.util.List;
 
-import lib6005.parser.ParseTree;
-import lib6005.parser.Parser;
-import lib6005.parser.UnableToParseException;
-import lib6005.parser.Visualizer;
+import edu.mit.eecs.parserlib.ParseTree;
+import edu.mit.eecs.parserlib.Parser;
+import edu.mit.eecs.parserlib.UnableToParseException;
+import edu.mit.eecs.parserlib.Visualizer;
 
 public class IntegerExpressionParser {
 
